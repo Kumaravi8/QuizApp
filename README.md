@@ -9,7 +9,7 @@ The application allows students to attempt a 10-question multiple-choice quiz re
 ## 🛠 Technologies Used
 
 - Java (OOP, Collections, Control Statements)
-- VS Code / Eclipse IDE
+- Eclipse IDE
 - Terminal (Command Line Interface)
 - Java Packages (DTO, Service, Controller)
 
